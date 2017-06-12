@@ -1,4 +1,4 @@
-## Perfect World Control Panel
+## Perfect World Web
 
 ### Requirements
 1. Composer & Git - [Complete steps 1 & 2 on this tutorial](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-composer-on-ubuntu-14-04)
@@ -65,4 +65,4 @@ php artisan key:generate
 
 **Note:** If you receive a 500 error after installation, redo the permissions again.
 
-If you receive any other errors please create an [issue](https://github.com/huludini/pw-web/issues).
+If you receive any other errors please create an [issue](https://github.com/TeemoCell/PW-Control-Panel/issues).
