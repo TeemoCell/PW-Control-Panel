@@ -23,7 +23,8 @@ return [
         'ranking' => 'Ranking',
         'manage' => 'Ingame Management',
         'system' => 'System',
-        'members' => 'Members'
+        'members' => 'Members',
+        'bugs' => 'Bug List'
     ],
     'acp_link' => 'Admin Control Panel',
     'acc_settings' => 'Account Settings',
@@ -75,7 +76,8 @@ return [
     ],
     'no_results' => 'Sorry, but there\'s nothing to display...',
     'reg_complete' => 'Your account has been registered, you can now login!',
-    'acc_balance' => 'Balance: :money :currency',
+    'acc_balance' => ':money Bucks',
+    'acc_balance2' => ':money2 VP',
     'buy' => 'Buy',
     'no_character_selected' => 'You must select a character before proceeding.',
     'no_characters' => 'You haven\'t created any characters.',

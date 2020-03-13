@@ -15,7 +15,7 @@ return [
     'level_40' => 'Character must be at least level 40',
     'message' => 'Message',
     'quantity' => 'Quantity',
-    'ingame_gold' => 'Ingame Gold',
+    'ingame_gold' => 'Ingame Gold = 1 Buck(s)',
     'requirements' => 'Requirements:',
     'free' => 'Free',
     'must_login' => 'Your character must be logged in.',

@@ -68,6 +68,7 @@ return [
     ],
 
     'fields' => [
+		'ItemColor' => 'Item Color',
         'name' => 'Name',
         'price' => 'Price',
         'item_id' => 'Item ID',
@@ -80,6 +81,11 @@ return [
         'discount' => 'Discount',
         'shareable' => [
             'title' => 'Shareable',
+            'yes' => 'Yes',
+            'no' => 'No'
+        ],
+        'active' => [
+            'title' => 'Is item active',
             'yes' => 'Yes',
             'no' => 'No'
         ],
