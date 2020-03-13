@@ -65,4 +65,4 @@ php artisan key:generate
 
 **Note:** If you receive a 500 error after installation, redo the permissions again.
 
-If you receive any otther errors please create an [issue](https://github.com/TeemoCell/PW-Control-Panel/issues).
+If you receive any other errors please create an [issue](https://github.com/TeemoCell/PW-Control-Panel/issues).
